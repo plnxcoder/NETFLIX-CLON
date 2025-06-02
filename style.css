@@ -97,7 +97,7 @@ body {
     padding: 20px 10%;
     background-color: black;
     margin-top: 50%;
-    border-bottom:2px solid white ;
+    border-bottom: 2px solid white;
 }
 
 .feature {
@@ -125,7 +125,8 @@ body {
     width: 50%;
     height: 50%;
 }
-.feature-text img{
+
+.feature-text img {
     margin-left: 110%;
     margin-top: -50%;
 }
@@ -140,7 +141,7 @@ body {
     line-height: 1.5;
 }
 
-.feature-img{
+.feature-img {
     flex: 1;
     padding: 20px;
 }
@@ -198,3 +199,6 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+.btn button:hover {
+    background-color: darkred;
+    transition: 0.3s;
